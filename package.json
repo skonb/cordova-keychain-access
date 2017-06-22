@@ -1,0 +1,21 @@
+me": "cordova-plugin-code-push",
+"version": "1.0.0-beta",
+"description": "Keychain Plugin for Apache Cordova",
+"cordova": {
+    "id": "cordova-plugin-keychain-access",
+    "platforms": [
+        "ios"
+    ]
+},
+"repository": {
+    "type": "git",
+    "url": "https://github.com/skonb/cordova-keychain-access"
+},
+"keywords": [
+    "cordova",
+    "keychain",
+    "cordova-ios"
+],
+"author": "PillerInnovations",
+"license": "MIT"
+}
